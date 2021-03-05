@@ -1,0 +1,6 @@
+body {
+    text-align:center;
+}
+#myCanvas {
+    border: 10px ridge white;
+}
